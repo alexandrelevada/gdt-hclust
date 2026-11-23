@@ -1,4 +1,4 @@
-# Not All Edges Are Equal: Geodesic Diffusion Tensors as Anisotropic Metrics for Hierarchical Clustering
+# Bending the Ruler: Geodesic Diffusion Tensors as Anisotropic Metrics for Hierarchical Clustering
 
 This repository contains the source code needed to reproduce every experiment, table and figure of the paper
 *"Not All Edges Are Equal: Geodesic Diffusion Tensors as Anisotropic Metrics for Hierarchical Clustering"*.
@@ -226,7 +226,7 @@ If you use this code, please cite:
 ```bibtex
 @article{levada2026gdt,
   author  = {Levada, Alexandre L. M.},
-  title   = {Not All Edges Are Equal: Geodesic Diffusion Tensors as Anisotropic Metrics for Hierarchical Clustering},
+  title   = {Bending the Ruler: Geodesic Diffusion Tensors as Anisotropic Metrics for Hierarchical Clustering},
   journal = {(under review)},
   year    = {2026}
 }
